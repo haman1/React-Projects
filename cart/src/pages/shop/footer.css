@@ -1,0 +1,33 @@
+.footer {
+    width: 100%;
+    height: 45px;
+    background-color: #121214;
+    position: fixed;
+    bottom: 0;
+}
+.footer h1{
+    color:#fff;
+    font-size: 1.3rem;
+}
+.container {
+    max-width: 1040px;
+    height: 100%;
+    margin: auto;
+    padding: 1rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    color:orangered;
+}
+
+.footer p {
+  
+    color: #fff;
+    font-weight: 300;
+    font-size: .9rem;
+    
+
+}
